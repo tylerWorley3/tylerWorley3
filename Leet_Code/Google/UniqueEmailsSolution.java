@@ -29,7 +29,7 @@
 *
 *
 **/
-class Solution {
+class UniqueEmailsSolution {
     public int numUniqueEmails(String[] emails) {
         Set<String> uniqueEmails = new HashSet<>(); // Using a HashSet to store unique emails. 
         
